@@ -87,3 +87,13 @@ The model demonstrates high accuracy in distinguishing between various apple dis
 ├── models/             # Saved model files (.h5 / .keras)
 ├── CNN_Project.ipynb   # Main Jupyter Notebook
 └── README.md           # Documentation
+
+---
+# 👩‍💻 Author
+
+**Minal Sadiq**
+Data Science 
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
